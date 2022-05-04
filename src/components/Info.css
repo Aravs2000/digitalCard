@@ -1,0 +1,128 @@
+.info{
+    display: flex;
+    align-items: center;
+    padding: 30px 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.linkB{
+ font-family: monospace;  
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+align-items: center;
+padding: 9px 13px 9px 11px;
+margin-top: 25px;
+position: absolute;
+width: 135px;
+height: 34px;
+left: 283px;
+top: 468px;
+
+background: #5093E2;
+
+    border: 1px solid #D1D5DB;
+    border-radius: 6px; 
+}
+.linkS{
+    position: static;
+    width: 25px;
+    height: 24px;
+    background-image: url('./icons8-linkedin-26.png')
+}
+
+.mailB{
+   display: flex;
+    font-family: monospace;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   padding: 9px 13px 9px 11px;
+   margin-top: 25px;
+   position: absolute;
+   width: 115px;
+   height: 34px;
+   left: 151px;
+   top: 468px;
+   
+   /* white */
+   background: #FFFFFF;
+   
+   /* gray/300 */
+   border: 1px solid #D1D5DB;
+    border-radius: 6px; 
+}
+.mailS{
+    position: static;
+    width: 25px;
+    height: 24px;
+    background-image: url('./icons8-mail-24.png');
+}
+
+
+.pic{
+    position: absolute;
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+.name{
+    position: absolute;
+    margin-bottom:10px;
+    width: 178.06px;
+    height: 25.81px;
+    left: 186px;
+    top: 382px;
+    letter-spacing: 0.035em;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.job{
+    position: absolute;
+    margin-top: 15px;
+    width: 178.06px;
+    height: 14.19px;
+    left: 186px;
+    top: 414px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+}
+
+.website{
+    position: absolute;
+width: 228px;
+height: 16px;
+left: 161px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+/* identical to box height, or 15px */
+text-align: center;
+
+color: #F5F5F5;
+}

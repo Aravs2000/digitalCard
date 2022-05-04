@@ -1,0 +1,52 @@
+.footer{
+    
+position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 760px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+
+}
+
+
+.twitter{
+    position: absolute;
+left: 34.36%;
+right: 61.09%;
+top: 30%;
+bottom: 7.37%;
+height: 25.000001907348633px;
+width: 25.000001907348633px;
+
+border-radius: 2px;
+
+background-image: url('./TIcon.png');
+}
+.instagram{
+    
+height: 25.000001907348633px;
+width: 25.000001907348633px;
+    position: absolute;
+left: 45.27%;
+right: 52.18%;
+top: 30%;
+bottom: 7.37%;
+border-radius: 2px;
+background-image: url('./InstaIcon.png');
+}
+
+
+.github{
+    height: 25.000001907348633px;
+width: 25.000001907348633px;
+    position: absolute;
+left: 56.18%;
+right: 43.27%;
+top: 30%;
+bottom: 7.37%;
+border-radius: 2px;
+background-image: url('./Git3Icon.png');
+}
