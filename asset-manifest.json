@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/digitalCard/static/css/main.6cdc2656.css",
+    "main.css": "/digitalCard/static/css/main.2aa2e31f.css",
     "main.js": "/digitalCard/static/js/main.f644f8a5.js",
     "static/media/aravs_pic_r.jpg": "/digitalCard/static/media/aravs_pic_r.ec1a33b9b080fd6cd02e.jpg",
     "index.html": "/digitalCard/index.html",
-    "main.6cdc2656.css.map": "/digitalCard/static/css/main.6cdc2656.css.map",
+    "main.2aa2e31f.css.map": "/digitalCard/static/css/main.2aa2e31f.css.map",
     "main.f644f8a5.js.map": "/digitalCard/static/js/main.f644f8a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cdc2656.css",
+    "static/css/main.2aa2e31f.css",
     "static/js/main.f644f8a5.js"
   ]
 }
